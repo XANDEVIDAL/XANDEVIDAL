@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou Alexandre Vidal 🤚
 
-[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vidallalexandre666@gmail.com)]
+[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vidallalexandre666@gmail.com)
 [![ WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](032920001387)
 [![LIMKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-vidal-836b03252/)
 
